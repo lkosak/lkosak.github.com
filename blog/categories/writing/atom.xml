@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[L.O.U.]]></title>
-  <link href="http://lkosak.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Writing | L.O.U.]]></title>
+  <link href="http://lkosak.com/blog/categories/writing/atom.xml" rel="self"/>
   <link href="http://lkosak.com/"/>
   <updated>2013-01-30T03:35:52-08:00</updated>
   <id>http://lkosak.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://lkosak.com/blog/2013/01/30/writing/"/>
     <updated>2013-01-30T02:41:00-08:00</updated>
     <id>http://lkosak.com/blog/2013/01/30/writing</id>
-    <content type="html"><![CDATA[<p>For the last few months I&#8217;ve been going through a period of transition that I&#8217;ve started calling the <strong>lourenaissance</strong>. To fuel this fire, one of my big priorities has been doing things to balance out the 12+ hours a day I spend in front of screens. These things include:</p>
+    <content type="html"><![CDATA[<p>For the last few months I've been going through a period of transition that I've started calling the <strong>lourenaissance</strong>. To fuel this fire, one of my big priorities has been doing things to balance out the 12+ hours a day I spend in front of screens. These things include:</p>
 
 <ul>
 <li>Hand writing letters to nice people.</li>
@@ -28,15 +28,15 @@
 </ul>
 
 
-<p>Granted, that last one&#8217;s probably not the healthiest habit.</p>
+<p>Granted, that last one's probably not the healthiest habit.</p>
 
-<p>Anyway, I&#8217;m also trying to get in the habit of writing more. Here&#8217;s a first effort, prompted by a challenge from my friend <a href="http://twitter.com/mischa">Mischa</a>:</p>
+<p>Anyway, I'm also trying to get in the habit of writing more. Here's a first effort, prompted by a challenge from my friend <a href="http://twitter.com/mischa">Mischa</a>:</p>
 
-<p><strong><a href="http://lkosak.com/writing/about-a-bike.html">About a bike</a></strong></p>
+<p><strong><a href="/writing/about-a-bike.html">About a bike</a></strong></p>
 
 <p>Hope you like it.</p>
 
-<p>* Not Philosopher&#8217;s Stone or Chamber. Those are kids books.</p>
+<p>* Not Philosopher's Stone or Chamber. Those are kids books.</p>
 ]]></content>
   </entry>
   

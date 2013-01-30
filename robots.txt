@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://lkosak.github.com/sitemap.xml 
+Sitemap: http://lkosak.com/sitemap.xml 
