@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Balance | L.O.U.]]></title>
+  <link href="http://lkosak.com/blog/categories/balance/atom.xml" rel="self"/>
+  <link href="http://lkosak.com/"/>
+  <updated>2013-01-30T03:57:25-08:00</updated>
+  <id>http://lkosak.com/</id>
+  <author>
+    <name><![CDATA[Lou Kosak]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Write to life]]></title>
+    <link href="http://lkosak.com/blog/2013/01/30/writing/"/>
+    <updated>2013-01-30T02:41:00-08:00</updated>
+    <id>http://lkosak.com/blog/2013/01/30/writing</id>
+    <content type="html"><![CDATA[<p>For the last few months I've been going through a period of transition that I've started calling the <strong>lourenaissance</strong>. To fuel this fire, one of my big priorities has been doing things to balance out the 12+ hours a day I spend in front of screens. These things include:</p>
+
+<ul>
+<li>Hand writing letters to nice people.</li>
+<li>Walking everywhere.</li>
+<li>Cooking more and eating more meals at home.</li>
+<li>Listening to the entire* Harry Potter series on audiobook while doing most of the above.</li>
+</ul>
+
+
+<p>Granted, that last one's probably not the healthiest habit.</p>
+
+<p>I'm also trying to get in the habit of writing more. Here's a first effort, prompted by a challenge from my friend <a href="http://twitter.com/mischa">Mischa</a>:</p>
+
+<p><a href="/writing/about-a-bike.html">About a bike</a></p>
+
+<p>Hope you like it.</p>
+
+<p>* Not Philosopher's Stone or Chamber. Those are for <em>children</em>.</p>
+]]></content>
+  </entry>
+  
+</feed>
